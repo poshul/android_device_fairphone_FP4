@@ -84,6 +84,16 @@ vendor/lib64/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so
 vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so
 vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so
 
+# Camera stuff for com.fp.camera
+vendor/lib/camera/components/com.morpho.node.sat.so
+vendor/lib/camera/components/com.morpho.node.moviesolid.so
+vendor/lib/camera/components/com.morpho.node.ldc.so
+vendor/lib/camera/components/com.qti.node.gpu.so
+vendor/lib/hw/com.qti.chi.override.so
+vendor/lib/hw/com.qti.chi.override.bitra.so
+
+vendor/lib/hw/camera.qcom.so
+
 # Camera
 vendor/lib/libswvdec.so
 vendor/lib64/camera/com.qti.eeprom.gt24p128ef_imx576.so
@@ -152,6 +162,8 @@ vendor/lib64/libcamxncs.so
 vendor/lib64/libcamxstatscore.so
 vendor/lib64/libcamxswprocessalgo.so
 vendor/lib64/libcamxtintlessalgo.so
+
+
 
 # Camera components
 vendor/lib64/camera/components/com.morpho.node.drchecker.so
