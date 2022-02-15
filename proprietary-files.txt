@@ -86,13 +86,20 @@ vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so
 
 # Camera stuff for com.fp.camera
 vendor/lib/camera/components/com.morpho.node.sat.so
+vendor/lib/libmorpho_distortion_correction.so
 vendor/lib/camera/components/com.morpho.node.moviesolid.so
 vendor/lib/camera/components/com.morpho.node.ldc.so
 vendor/lib/camera/components/com.qti.node.gpu.so
 vendor/lib/hw/com.qti.chi.override.so
 vendor/lib/hw/com.qti.chi.override.bitra.so
-
+vendor/lib/libchilog.so
+vendor/lib/libcom.qti.chinodeutils.so
+vendor/lib/libmorpho_movie_stabilizer6.so
 vendor/lib/hw/camera.qcom.so
+vendor/etc/camera/cm401_fw.txt
+vendor/etc/camera/qrd865_camera_id0.param
+vendor/etc/camera/qrd865_camera_id1.param
+vendor/etc/camera/qrd865_camera_id2.param
 
 # Camera
 vendor/lib/libswvdec.so
